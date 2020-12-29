@@ -1,4 +1,3 @@
-Basic-Blockchain
 Basic Blockchain with block integrity. 
 implements two classes driver the main class which utilizes Block class.
 
